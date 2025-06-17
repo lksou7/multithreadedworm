@@ -15,3 +15,6 @@ The author is not responsible for any misuse of this code.
 this is a stimulation of the spread mechanism of a worm and it contains no malicious threats
 
 Inspired by discussions with ChatGPT
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
