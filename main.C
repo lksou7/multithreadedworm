@@ -77,5 +77,8 @@ int main {
         }
    for (int i = 0; i < 10; i++) {
         pthread_join(threads[i], NULL);
+        }
+   printf("Worm finished.\n");
+   return 0;
 }    
 
